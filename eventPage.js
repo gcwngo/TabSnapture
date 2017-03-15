@@ -1,3 +1,4 @@
+//eventPage
 var tabName;
 var screencapture = {
   content : document.createElement("canvas"),
